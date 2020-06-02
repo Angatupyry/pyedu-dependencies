@@ -1,0 +1,13 @@
+Source:  pyedu-dependencies
+Section: x11
+Priority: optional
+Maintainer: Paraguay Educa <tecnologia@paraguayeduca.org>
+Build-Depends: debhelper (>= 12~)
+Standards-Version: 4.4.1
+Homepage: ninguna
+
+Package:  pyedu-dependencies
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}, vim, flatpak, sucrose, gcompris-qt, gnome-software-plugin-flatpak, wget, unzip, python3-pip, python3-sugar3, python2, x11vnc, gufw, gir1.2-telepathyglib-0.12, geogebra, tuxpaint, etoys, default-jre, default-jdk, jclic, sugar-abacus-activity, sugar-chart-activity, sugar-chat-activity, sugar-clock-activity, sugar-develop-activity, sugar-finance-activity, sugar-findwords-activity, sugar-fototoon-activity, sugar-fractionbounce-activity, sugar-gears-activity, sugar-imageviewer-activity, sugar-implode-activity, sugar-letters-activity, sugar-maze-activity, sugar-measure-activity, sugar-memorize-activity, sugar-moon-activity, sugar-music-keyboard-activity, sugar-paint-activity, sugar-physics-activity, sugar-poll-activity, sugar-portfolio-activity, sugar-read-activity, sugar-speak-activity, sugar-stopwatch-activity, sugar-story-activity, sugar-words-activity, sugar-write-activity
+Description: Dependencias Paraguay Educa
+
